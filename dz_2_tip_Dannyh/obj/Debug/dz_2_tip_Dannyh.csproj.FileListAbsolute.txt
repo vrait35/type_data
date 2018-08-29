@@ -1,0 +1,7 @@
+C:\Users\anuar\source\repos\dz_2_tip_Dannyh\dz_2_tip_Dannyh\bin\Debug\dz_2_tip_Dannyh.exe.config
+C:\Users\anuar\source\repos\dz_2_tip_Dannyh\dz_2_tip_Dannyh\bin\Debug\dz_2_tip_Dannyh.exe
+C:\Users\anuar\source\repos\dz_2_tip_Dannyh\dz_2_tip_Dannyh\bin\Debug\dz_2_tip_Dannyh.pdb
+C:\Users\anuar\source\repos\dz_2_tip_Dannyh\dz_2_tip_Dannyh\obj\Debug\dz_2_tip_Dannyh.csprojResolveAssemblyReference.cache
+C:\Users\anuar\source\repos\dz_2_tip_Dannyh\dz_2_tip_Dannyh\obj\Debug\dz_2_tip_Dannyh.csproj.CoreCompileInputs.cache
+C:\Users\anuar\source\repos\dz_2_tip_Dannyh\dz_2_tip_Dannyh\obj\Debug\dz_2_tip_Dannyh.exe
+C:\Users\anuar\source\repos\dz_2_tip_Dannyh\dz_2_tip_Dannyh\obj\Debug\dz_2_tip_Dannyh.pdb
